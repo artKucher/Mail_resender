@@ -1,2 +1,2 @@
 # Mail_resender
-Resend e-mail from closed infrastructure
+Утилита для пересылки писем из корпоративной почты, в которой пересылка заблокирована политиками.

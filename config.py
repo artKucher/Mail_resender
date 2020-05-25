@@ -1,9 +1,9 @@
-imap_host = "njc-mail02.ois.ru"
-smtp_host = "njc-mail02.ois.ru"
+imap_host = ""
+smtp_host = ""
 smtp_port = 587
-user = "avkucher"
-passwd = "HSf92Qp58"
+user = ""
+passwd = ""
 
-from_addr = "avkucher@asuproject.ru"
-to_addresses = ["kuch.art@mail.ru"]
-addresses_to_forward = ["support@lukoil.com", "service@lukoil.com", "kuch.art@mail.ru"]
+from_addr = ""
+to_addresses = ["123@mail.ru"]
+addresses_to_forward = ["111@support.com", "113@support.com", "112@support.com"]
